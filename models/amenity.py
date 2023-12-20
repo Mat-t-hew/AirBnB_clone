@@ -7,3 +7,4 @@ class Amenity(BaseModel):
     """Our beautiful Amenity class"""
     name = ""
 
+
