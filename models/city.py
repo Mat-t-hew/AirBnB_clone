@@ -7,5 +7,3 @@ class City(BaseModel):
     """Our beautiful City class"""
     state_id = ""
     name = ""
-
-
